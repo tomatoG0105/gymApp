@@ -1,4 +1,4 @@
-# Gym Application
+# Cross-Platform Gym Management System
 
 
 
@@ -46,23 +46,23 @@ This project provides a REST API backend for a gym management system. It is buil
 
 1\) Clone the repository:
 
-&nbsp;  git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/your-repo.git
 
 2\) Open the project in IntelliJ IDEA or another IDE.
 
 3\) Navigate to:
 
-&nbsp;  backend/src/main/resources/application.properties
+   backend/src/main/resources/application.properties
 
-&nbsp;  Update the database connection settings to match your local MariaDB configuration.
+   Update the database connection settings to match your local MariaDB configuration.
 
 4\) Build the project:
 
-&nbsp;  mvn clean install
+   mvn clean install
 
 5\) Run the API:
 
-&nbsp;  mvn spring-boot:run
+   mvn spring-boot:run
 
 The application should start on port 8080 by default.
 
